@@ -1,6 +1,4 @@
 
-E. Amiri Souri1, A. Chenoweth2, 3, S. N. Karagiannis2, 3, S. Tsoka1*
- 
 ## Drug Repurposing and Prediction of Multiple Interaction Types via Graph Embedding 
 ##### E. Amiri Souri<sup>1</sup>, A. Chenoweth<sup>1 </sup>, S. N. Karagiannis<sup>2,3</sup>,  S. Tsoka<sup>1</sup>
 
