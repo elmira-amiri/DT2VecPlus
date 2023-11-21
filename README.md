@@ -6,7 +6,7 @@
 2 St. John’s Institute of Dermatology, School of Basic & Medical Biosciences, King’s College London, & NIHR Biomedical Research Centre at Guy’s and St. Thomas’ Hospitals and King’s College London, Guy’s Hospital, King’s College London, London SE1 9RT, United Kingdom <br />
 3 Centre for Process Systems Engineering, Department of Chemical Engineering, University College London, Roberts Building, Torrington Place, London WC1E 7JE, United Kingdom <br />
 
-<sub> ***British Journal of Cancer*** (2023) | https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05317-w
+<sub> ***BMC Bioinformatics*** (2023) | https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05317-w
  
 --------------------------------
   
